@@ -32,14 +32,6 @@ Releaseページの「Assets」にある `.apk` ファイルを選択してく�
 - 通知へのアクセスが必要
 - 対応状況はアプリケーションによって異なります
 
-動作確認済みのアプリケーション：
-
-- Spotify
-- Apple Music
-- YouTube Music
-
-YouTube Musicでは曲のURLを自動取得できない場合があります。
-
 ## インストール方法
 
 1. [Releases](https://github.com/mqhiru1110/NowPlaying/releases)を開きます。
