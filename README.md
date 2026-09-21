@@ -14,6 +14,37 @@ Releaseページの「Assets」にある `.apk` ファイルを選択してく�
 
 「Source code (zip)」「Source code (tar.gz)」はインストール用ファイルではありません。
 
+## スクリーンショット
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home.png" width="280"><br>
+      ホーム
+    </td>
+    <td align="center">
+      <img src="screenshots/template.png" width="280"><br>
+      テンプレート
+    </td>
+ </td>
+    <td align="center">
+      <img src="screenshots/preset.png" width="280"><br>
+      プリセット
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/preview.png" width="280"><br>
+      プレビュー
+    </td>
+    <td align="center">
+      <img src="screenshots/setting.png" width="280"><br>
+      設定
+    </td>
+  </tr>
+</table>
+
 ## 主な機能
 
 - 再生中の曲名、アーティスト、アルバム、ジャケットを取得
